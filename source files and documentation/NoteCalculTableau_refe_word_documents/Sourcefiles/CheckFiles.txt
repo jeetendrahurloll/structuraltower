@@ -1,0 +1,167 @@
+    1      C:\NoteCalc\Work\AutoSta.VG1
+    2      C:\NoteCalc\Work\AutoSta.VG2
+    3      
+    4      
+    5      
+    6      
+    7      C:\NoteCalc\Work\AutoSta.DGE
+    8      C:\NoteCalc\Work\AutoSta.REA
+    9      C:\NoteCalc\Work\AutoSta.COR
+    10     C:\NoteCalc\Work\AutoSta.DEF
+    11     C:\NoteCalc\Work\AutoSta.RE1
+    12     C:\NoteCalc\Work\AutoSta.RE2
+    13     
+    14     
+    15     
+    16     
+    17     
+    18     C:\NoteCalc\Work\AutoSta.ANC
+    19     C:\NoteCalc\Work\AutoSta.TGF
+    20     
+    21     C:\NoteCalc\Work\AutoSta.EF1
+    22     C:\NoteCalc\Work\AutoSta.EF2
+    23     
+    24     
+    25     
+    26     
+    27     
+    28     
+    29     
+    30     
+    31     C:\NoteCalc\Work\AutoSta.CH1
+    32     C:\NoteCalc\Work\AutoSta.CH2
+    33     
+    34     
+    35     
+    36     
+    37     
+    38     
+    39     
+    40     
+    41     E:\Richard\AmericanTower\ATC-40m-NorDeste\AQTP40-1420C2-S10x10-AE183
+    42     E:\Richard\AmericanTower\ATC-40m-NorDeste\AQTP40-1420C2-S10x10-AE182
+    43     E:\Richard\AmericanTower\ATC-40m-NorDeste\AQTP40-1420C2-S10x10-AE18
+    44     
+    45     
+    46     C:\NoteCalc\Work\AutoSta.DG
+    47     C:\NoteCalc\Work\AutoSta.SG
+    48     C:\NoteCalc\Work\AutoSta.HB
+    49     C:\NoteCalc\Work\AutoSta.SB
+    50     C:\NoteCalc\Work\AutoSta.BA
+    51     C:\NoteCalc\Work\AutoSta.BB
+    52     C:\NoteCalc\Work\AutoSta.BC
+    53     C:\NoteCalc\Work\AutoSta.BD
+    54     C:\NoteCalc\Work\AutoSta.BE
+    55     C:\NoteCalc\Work\AutoSta.BF
+    56     C:\NoteCalc\Work\AutoSta.BG
+    57     C:\NoteCalc\Work\AutoSta.BH
+    58     C:\NoteCalc\Work\AutoSta.BJ
+    59     C:\NoteCalc\Work\AutoSta.BK
+    60     C:\NoteCalc\Work\AutoSta.BM
+    61     C:\NoteCalc\Work\AutoSta.BN
+    62     C:\NoteCalc\Work\AutoSta.DA
+    63     C:\NoteCalc\Work\AutoSta.DB
+    64     C:\NoteCalc\Work\AutoSta.LR
+    65     C:\NoteCalc\Work\AutoSta.DR
+    66     C:\NoteCalc\Work\AutoSta.SR
+    67     C:\NoteCalc\Work\AutoSta.HR
+    68     C:\NoteCalc\Work\AutoSta.SS
+    69     C:\NoteCalc\Work\AutoSta.LG
+    70     C:\NoteCalc\Work\AutoSta.FL
+    71     
+    72     
+    73     
+    74     
+    75     
+    76     
+    77     
+    78     
+    79     
+    80     
+    81     
+    82     
+    83     
+    84     
+    85     
+    86     
+    87     
+    88     
+    89     
+    90     
+    91     
+    92     
+    93     
+    94     
+    95     
+    96     
+    97     
+    98     C:\NoteCalc\Work\AutoSta.RED
+    99     C:\NoteCalc\Work\AutoSta.SMR
+    100    
+    101    
+    102    
+    103    
+    104    
+    105    
+    106    
+    107    
+    108    
+    109    
+    110    
+    111    
+    112    
+    113    
+    114    
+    115    
+    116    
+    117    
+    118    
+    119    
+    120    
+    121    
+    122    
+    123    
+    124    
+    125    
+    126    
+    127    
+    128    
+    129    
+    130    
+    131    
+    132    
+    133    
+    134    
+    135    
+    136    
+    137    
+    138    
+    139    
+    140    
+    141    
+    142    
+    143    
+    144    
+    145    
+    146    
+    147    
+    148    
+    149    
+    150    
+   Nb of Lines  200 ,   200 ,   0 
+    1       333 
+    2       333 
+    3       333 
+    4       333 
+    5       0 
+    6       0 
+    7       0 
+    8       0 
+    9       0 
+    10      0 
+    11      0 
+    12      0 
+    13      0 
+    14      0 
+    15      0 
+   Nb of Lines  200 ,   200 ,   0 

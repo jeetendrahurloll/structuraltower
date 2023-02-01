@@ -1,0 +1,31 @@
+File used is C:\Disque E\AmericanTower\AQTP40-1420C2-S10x10-AE48-En2.LIR - Le premier !!! - Juste après TXV et un LIR
+ 1  BB1 0.00   B1$                B2$  14' 28"      MX1  0 
+ 1  BB2 40.00  B3$                B4$   1' 29"      B5$  
+ 2  BB1 0.00   B1$                B2$  14' 28"      MX1  0 
+ 2  BB2 40.00  B3$                B4$               B5$  
+ 3  BB1 0.00   B1$                B2$  14' 19"      MX1  0 
+ 3  BB2 36.00  B3$                B4$               B5$  
+ 4  BB1 0.00   B1$                B2$  14' 03"      MX1  0 
+ 4  BB2 35.00  B3$                B4$               B5$  
+Ici on a ajusté les valeurs du TXV pour pouvoir comparer à LIR  
+ 1  BB1 0.00   B1$                B2$  14' 28"      MX1  0 
+ 1  BB2 40.00  B3$                B4$   1' 29"      B5$  0° 00' 00"
+ 2  BB1 0.00   B1$                B2$  14' 28"      MX1  0 
+ 2  BB2 40.00  B3$                B4$               B5$  0° 00' 00"
+ 3  BB1 0.00   B1$                B2$  14' 19"      MX1  0 
+ 3  BB2 36.00  B3$                B4$               B5$  
+ 4  BB1 0.00   B1$                B2$  14' 03"      MX1  0 
+ 4  BB2 35.00  B3$                B4$               B5$  
+File is now C:\Disque E\AmericanTower\AQTP40-1420C2-S10x10-AE48-En.LIR  - c'est LeFile(43) lu en 2° LIR
+ 1  BB1 0.00   B1$                B2$  14' 28"      MX1  0 
+ 1  BB2 40.00  B3$  14'  0"       B4$   1' 29"      B5$  0° 00' 00"
+ 1  BB3 40.00  B6$                B7$   0' 22"      B5$  0° 00' 00"
+ 2  BB1 0.00   B1$                B2$  14' 28"      MX1  0 
+ 2  BB2 40.00  B3$  14' 01"       B4$               B5$  0° 00' 00"
+ 2  BB3 40.00  B6$                B7$               B5$  0° 00' 00"
+ 3  BB1 0.00   B1$                B2$  14' 19"      MX1  0 
+ 3  BB2 36.00  B3$  13' 49"       B4$               B5$  
+ 3  BB3 36.00  B6$                B7$               B5$  
+ 4  BB1 0.00   B1$                B2$  14' 03"      MX1  0 
+ 4  BB2 35.00  B3$  13' 36"       B4$               B5$  
+ 4  BB3 35.00  B6$                B7$               B5$  
