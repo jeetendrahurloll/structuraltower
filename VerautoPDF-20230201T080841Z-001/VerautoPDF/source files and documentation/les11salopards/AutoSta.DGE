@@ -1,0 +1,373 @@
+ClientNom                                   American Tower
+Title                                       Free Standing Tower
+Fornecedor                                  Construmetal
+Rvv                                         0
+LargEsteira                                 0.60
+LargEscada                                  0.40
+DocDate                                      , 16 2013
+TowTop                                      40.00
+THeight                                     40.00
+LargTop                                     1.42
+LargBase                                    2.82
+HTReto                                      0.00
+GENNORM                                     AISC-LRFD
+NormDimAISC                                 Designed to AISC Specifications, March 9, 2005.
+Normavent                                   NBR6123/88
+ModCarg                                     Joint Load
+ValDiagPin                                  Auto
+CoeLrfd                                     1.30
+GenSafe                                     1.00
+Computed Frequency                          Mathematical model used is space
+FreqPylo                                    Frame
+VarTemp                                     0
+RadiIce                                     0.00
+ArEsEst                                     0.21
+PesEscad                                    21
+IntExt                                      Internal
+PesAnt                                      1460
+PesEstrut                                   10124
+MtTop                                       0
+MfTop                                       0
+CrosSection                                 SQUARE
+BaWind                                      30.00
+OfatorS1                                    Topographic Factor S1
+FS1                                         1.00
+AcategoriaS2                                Factor S2 Category
+Catg                                        II
+AclasseS2                                   Factor S2 Class
+LaClasse                                    B
+OfatorS3                                    Statistical risk Factor S3
+FS3                                         1.00
+PosPla1                                     External Work Platform (height above ground)
+AEPla1                                      1.60
+Plat1                                       39.50
+PosPla2                                     Internal Work Platform (height above ground)
+AEPla2                                      0.76
+Plat2                                       37.70
+PosPla3                                      
+AEPla3                                       
+Plat3                                        
+PosPla4                                      
+AEPla4                                       
+Plat4                                        
+PosPla5                                      
+AEPla5                                       
+Plat5                                        
+PosPla6                                      
+AEPla6                                       
+Plat6                                        
+PosPla7                                      
+AEPla7                                       
+Plat7                                        
+PosPla8                                      
+AEPla8                                       
+Plat8                                        
+PosPla9                                      
+AEPla9                                       
+Plat9                                        
+PosPla10                                     
+AEPla10                                      
+Plat10                                       
+PosPla11                                     
+AEPla11                                      
+Plat11                                       
+PosPla12                                     
+AEPla12                                      
+Plat12                                       
+PosPla13                                     
+AEPla13                                      
+Plat13                                       
+PosPla14                                     
+AEPla14                                      
+Plat14                                       
+PosPla15                                     
+AEPla15                                      
+Plat15                                       
+Dia1                                        1.80
+Tip1                                        Plain 
+Hant1                                       40.0
+Dir1                                        354.0°
+Pant1                                       160
+Air1                                          
+Mte1                                          
+Qp1                                          
+Go1                                          
+Dia2                                        1.80
+Tip2                                        Plain 
+Hant2                                       40.0
+Dir2                                        284.0°
+Pant2                                       160
+Air2                                          
+Mte2                                          
+Qp2                                          
+Go2                                          
+Dia3                                        1.40
+Tip3                                        Plain 
+Hant3                                       40.0
+Dir3                                        164.0°
+Pant3                                       120
+Air3                                          
+Mte3                                          
+Qp3                                          
+Go3                                          
+Dia4                                        1.80
+Tip4                                        Plain 
+Hant4                                       40.0
+Dir4                                        44.0°
+Pant4                                       160
+Air4                                        10.75
+Mte4                                        0.710
+Qp4                                          
+Go4                                          
+Dia5                                        1.40
+Tip5                                        Plain 
+Hant5                                       36.0
+Dir5                                        284.0°
+Pant5                                       120
+Air5                                        1.58
+Mte5                                        0.930
+Qp5                                          
+Go5                                          
+Dia6                                        1.80
+Tip6                                        Plain 
+Hant6                                       35.0
+Dir6                                        44.0°
+Pant6                                       160
+Air6                                        2.87
+Mte6                                        0.840
+Qp6                                          
+Go6                                          
+Dia7                                          
+Tip7                                          
+Hant7                                         
+Dir7                                          
+Pant7                                         
+Air7                                          
+Mte7                                          
+Qp7                                           
+Go7                                           
+Dia8                                          
+Tip8                                          
+Hant8                                         
+Dir8                                          
+Pant8                                         
+Air8                                          
+Mte8                                          
+Qp8                                           
+Go8                                           
+Dia9                                          
+Tip9                                          
+Hant9                                         
+Dir9                                          
+Pant9                                         
+Air9                                          
+Mte9                                          
+Qp9                                           
+Go9                                           
+Dia10                                         
+Tip10                                         
+Hant10                                        
+Dir10                                         
+Pant10                                        
+Air10                                         
+Mte10                                         
+Qp10                                          
+Go10                                          
+Dia11                                         
+Tip11                                         
+Hant11                                        
+Dir11                                         
+Pant11                                        
+Air11                                         
+Mte11                                         
+Qp11                                          
+Go11                                          
+Dia12                                         
+Tip12                                         
+Hant12                                        
+Dir12                                         
+Pant12                                        
+Air12                                         
+Mte12                                         
+Qp12                                          
+Go12                                          
+Dia13                                         
+Tip13                                         
+Hant13                                        
+Dir13                                         
+Pant13                                        
+Air13                                         
+Mte13                                         
+Qp13                                          
+Go13                                          
+Dia14                                         
+Tip14                                         
+Hant14                                        
+Dir14                                         
+Pant14                                        
+Air14                                         
+Mte14                                         
+Qp14                                          
+Go14                                          
+Nuhf1                                        1
+Mod1                                        YAGI   171-Y4-10E-19
+Alt1                                        40.00
+Pes1                                        50
+Ae1                                         1.25
+Qq1                                         1
+Lin1                                        31 mm
+Nuhf2                                        2
+Mod2                                        Celular Group 1.8 m²
+Alt2                                        36.00
+Pes2                                        150
+Ae2                                         1.81
+Qq2                                         3
+Lin2                                        31 mm
+Nuhf3                                        3
+Mod3                                        YAGI   430-Y2-12E-16
+Alt3                                        36.00
+Pes3                                        14
+Ae3                                         0.29
+Qq3                                         2
+Lin3                                        31 mm
+Nuhf4                                        4
+Mod4                                        YAGI   YB7-400
+Alt4                                        36.00
+Pes4                                        97
+Ae4                                         2.37
+Qq4                                         2
+Lin4                                        31 mm
+Nuhf5                                        5
+Mod5                                        LOG PER.  LA4-375
+Alt5                                        35.00
+Pes5                                        25
+Ae5                                         0.54
+Qq5                                         2
+Lin5                                        31 mm
+Nuhf6                                        6
+Mod6                                        Shively 6814
+Alt6                                        35.00
+Pes6                                        244
+Ae6                                         2.57
+Qq6                                         3
+Lin6                                        31 mm
+Nuhf7                                         
+Mod7                                          
+Alt7                                          
+Pes7                                          
+Ae7                                           
+Qq7                                           
+Lin7                                          
+Nuhf8                                         
+Mod8                                          
+Alt8                                          
+Pes8                                          
+Ae8                                           
+Qq8                                           
+Lin8                                          
+Nuhf9                                         
+Mod9                                          
+Alt9                                          
+Pes9                                          
+Ae9                                           
+Qq9                                           
+Lin9                                          
+Nuhf10                                        
+Mod10                                         
+Alt10                                         
+Pes10                                         
+Ae10                                          
+Qq10                                          
+Lin10                                         
+Nuhf11                                        
+Mod11                                         
+Alt11                                         
+Pes11                                         
+Ae11                                          
+Qq11                                          
+Lin11                                         
+Nuhf12                                        
+Mod12                                         
+Alt12                                         
+Pes12                                         
+Ae12                                          
+Qq12                                          
+Lin12                                         
+Nuhf13                                        
+Mod13                                         
+Alt13                                         
+Pes13                                         
+Ae13                                          
+Qq13                                          
+Lin13                                         
+Nuhf14                                        
+Mod14                                         
+Alt14                                         
+Pes14                                         
+Ae14                                          
+Qq14                                          
+Lin14                                         
+Nuhf15                                        
+Mod15                                         
+Alt15                                         
+Pes15                                         
+Ae15                                          
+Qq15                                          
+Lin15                                         
+Nuhf16                                        
+Mod16                                         
+Alt16                                         
+Pes16                                         
+Ae16                                          
+Qq16                                          
+Lin16                                         
+Nuhf17                                        
+Mod17                                         
+Alt17                                         
+Pes17                                         
+Ae17                                          
+Qq17                                          
+Lin17                                         
+Nuhf18                                        
+Mod18                                         
+Alt18                                         
+Pes18                                         
+Ae18                                          
+Qq18                                          
+Lin18                                         
+Nuhf19                                        
+Mod19                                         
+Alt19                                         
+Pes19                                         
+Ae19                                          
+Qq19                                          
+Lin19                                         
+Nuhf20                                        
+Mod20                                         
+Alt20                                         
+Pes20                                         
+Ae20                                          
+Qq20                                          
+Lin20                                         
+LinClipCab                                   1 
+LinClipCab                                   1 
+Hcgo1                                       40
+Acgo1                                       0.421
+Hcgo2                                       36
+Acgo2                                       0.211
+Hcgo3                                       35
+Acgo3                                       0.237
+Hcgo4                                        
+Acgo4                                        
+Hcgo5                                        
+Acgo5                                        
+Hcgo6                                        
+Acgo6                                        
+Hcgo7                                        
+Acgo7                                        
+Hcgo8                                        
+Acgo8                                        
+Hcgo9                                        
+Acgo9                                        
+Hcgo10                                       
+Acgo10                                       
